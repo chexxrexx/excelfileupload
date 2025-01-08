@@ -6,15 +6,6 @@ How to run the code:
 - Import the files as a maven project
 - Run the file that says “UploadingFilesApplication.java”
 
-NOTE: Please check the Microsoft VBA folder for code that is more updated and can be used directly in excel :)
+The Criterion D video will not work as the video was not uploaded.
 
-How to run the code for the VBA code:
-
-- Open a spreadsheet in Microsoft excel
-- Go to the developers tab 
-- Click Visual Basic
-- Copy paste the code
-- Click the first macro (date_test) 
-- Run the code
-
-NOTE: If you want to save the macro/VBA code, please save the .xlsx file as a .xlsm
+This project got 27/34 or a 7 for IB Computer Science Higher Level.
